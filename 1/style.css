@@ -5,13 +5,26 @@ justify-content: flex-end
 }
 
 .divp1{
-    width: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 20%;
+    text-align: center;
+}
+.missao{
+    color: palevioletred;
+    background-color: rgb(2, 132, 165);
+    text-align: center;
+    width: 30vw;
+    height: 100vh;
+    padding-top: 50vh;
+
 }
 
 .divP2{
    
-    background-image: url('https://cdn.pixabay.com/photo/2023/06/20/01/30/ai-generated-8075768_1280.jpg');
-    width: 60%;
+    background-image: url('https://wallpapercave.com/wp/wp2578195.jpg');
+    width: 70%;
     height: 100vh;
     display: flex;
 }
