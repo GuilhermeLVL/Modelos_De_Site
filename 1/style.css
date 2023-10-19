@@ -13,7 +13,7 @@ justify-content: flex-end
 }
 .missao{
     color: palevioletred;
-    background-color: rgb(2, 132, 165);
+    background: linear-gradient(to bottom, #ff6f61, #00416a);
     text-align: center;
     width: 30vw;
     height: 100vh;
@@ -24,6 +24,11 @@ justify-content: flex-end
 .divP2{
    
     background-image: url('https://wallpapercave.com/wp/wp2578195.jpg');
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+    background-position: center center;
+
     width: 70%;
     height: 100vh;
     display: flex;
