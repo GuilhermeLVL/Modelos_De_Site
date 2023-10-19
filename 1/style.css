@@ -1,23 +1,19 @@
-*{
-    box-sizing: border-box;
-}
-
-
-
 
 .alinhamento{
 display: flex;
+justify-content: flex-end
 }
 
 .divp1{
-    width: 50%;
+    width: 30%;
 }
 
 .divP2{
    
     background-image: url('https://cdn.pixabay.com/photo/2023/06/20/01/30/ai-generated-8075768_1280.jpg');
-    width: 100%;
+    width: 60%;
     height: 100vh;
+    display: flex;
 }
 
 .titulo{
@@ -30,14 +26,16 @@ font-size: 30px;
 color: white;
 }
 
-.menu-Numeros{
-    width: 40vw;
+.menusP2{
+    width: 35vw;
     background-color: rgba(0, 0, 0, 0.171);
+    color: white;
     height:100%;
 
     display: flex;
     justify-content: center;
     flex-direction: column;
     text-align: center;
+    gap: 5rem;
 
 }
