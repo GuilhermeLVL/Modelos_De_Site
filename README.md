@@ -4,4 +4,4 @@ Bem-vindo à Galeria de Projetos! Este repositório é um espaço onde você pod
 
 ## Projetos Disponíveis
 
-- [Nome do Projeto 1](./): Breve descrição do projeto 1.
+- [Projeto 01](./Img-Readme/01-.jpg): Site simples feito com base em um modelo encontrado na internet.
