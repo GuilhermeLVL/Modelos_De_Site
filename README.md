@@ -1,2 +1,7 @@
-# Modelos_De_Site
- Bem-vindo ao Repositório de um Modelos de Site em Desenvolvimento!  Este é um espaço em construção, onde estou criando e compartilhando um modelo de site. A ideia é explorar tecnologias web enquanto forneço inspiração para entusiastas e aprendizes. Ainda estou começando, então fique de olho nas atualizações à medida que adiciono novos elementos e melhorias!
+ # Galeria de Projetos
+
+Bem-vindo à Galeria de Projetos! Este repositório é um espaço onde você pode encontrar uma coleção de projetos que desenvolvemos. Cada pasta neste repositório representa um projeto individual, com seu código-fonte, imagens e uma pequena descrição.
+
+## Projetos Disponíveis
+
+- [Nome do Projeto 1](./): Breve descrição do projeto 1.
