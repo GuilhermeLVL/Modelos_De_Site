@@ -10,5 +10,5 @@ Bem-vindo à Galeria de Projetos! Este repositório é um espaço onde você pod
 - [Projeto 02](https://65ff3ff7eb20374beb1fad0c--taupe-quokka-c9e388.netlify.app/): Site simples feito com base em um modelo encontrado na internet.
  <img src="./Img-Readme/02-.jpg" alt="Projeto 1" width="300" height="200" style="border: 2px solid white">
 
- - [Projeto 03](https://65ff40018007764d077c6c41--taupe-quokka-c9e388.netlify.app/): IceLand.
+ - [Projeto 03](https://aquamarine-flan-44b851.netlify.app/): IceLand.
  <img src="./Img-Readme/03-iceland.jpg" alt="Projeto 1" width="300" height="200" style="border: 2px solid white">
