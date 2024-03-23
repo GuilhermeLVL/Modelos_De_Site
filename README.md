@@ -6,3 +6,6 @@ Bem-vindo à Galeria de Projetos! Este repositório é um espaço onde você pod
 
 - [Projeto 01](./Img-Readme/01-.jpg): Site simples feito com base em um modelo encontrado na internet.
  <img src="./Img-Readme/01-.jpg" alt="Projeto 1" width="300" height="200" style="border: 2px solid white">
+
+- [Projeto 02](./Img-Readme/02-.jpg): Site simples feito com base em um modelo encontrado na internet.
+ <img src="./Img-Readme/02-.jpg" alt="Projeto 1" width="300" height="200" style="border: 2px solid white">
